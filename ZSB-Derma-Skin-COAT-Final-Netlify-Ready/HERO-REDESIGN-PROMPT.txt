@@ -1,0 +1,19 @@
+SKIN COAT HERO SECTION — FINAL REFINEMENT
+
+Keep the existing luxury reference-image hero design and overall brand direction. Do not redesign the entire website or replace the existing hero artwork.
+
+Goals:
+- Make all left-side hero content clearly readable against the cream/gold image background.
+- Use deep navy for primary headings and rich warm gold for highlighted words and accents.
+- Use dark slate/navy body copy with sufficient contrast; never use pale grey text on the cream background.
+- Keep the exact product copy, three proof points (SPF 60+++, 50 g, Gel), both CTA links, and the closing tagline visible.
+- Reduce hero height, vertical padding, margins, and oversized typography so the complete desktop hero fits in the first viewport below the announcement bar and navigation.
+- Keep the reference product image prominent on the right, with no distortion, clipping, or overlap.
+- Keep the header compact and preserve all existing navigation, pages, assets, and functionality.
+- On smaller screens, switch to a clean single-column layout with readable text, compact proof points, full-width CTAs, and no horizontal overflow.
+- Respect reduced-motion preferences and preserve accessible contrast and semantic HTML.
+
+The result should feel like a polished premium skincare landing page: balanced, aligned, compact, and immediately understandable when the homepage loads.
+
+
+Latest visual adjustment: Match the first supplied screenshot. Keep the full-width original luxury product background, cream left side, navy/gold typography, no gray circular overlay, and compact first-fold hero height.
